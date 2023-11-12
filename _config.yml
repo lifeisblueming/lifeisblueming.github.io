@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "blueming blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "blueming"
 description              : "An amazing website."
 url                      : "https://lifeisblueming.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "blueming"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **good** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "hello world."
+  location         : "korea"
+  email            : "lifeisblueming@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
