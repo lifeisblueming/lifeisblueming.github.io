@@ -10,10 +10,10 @@ main:
   - title: "Search"
     url: /search/
 
-docs:
-  - title: "목차"
-    children:
-      - title: "Category"
-      - url:  /categories/
-      - title: "Tag"
-      - url: "/tags/"
+# docs:
+#   - title: "목차"
+#     children:
+#       - title: "Category"
+#       - url:  /categories/
+#       - title: "Tag"
+#       - url: "/tags/"
